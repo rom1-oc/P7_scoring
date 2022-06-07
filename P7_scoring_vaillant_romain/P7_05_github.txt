@@ -1,0 +1,14 @@
+P7 - Github
+
+- Notebook
+Code: https://github.com/rom1-oc/p7_notebook.git
+
+- API
+Code: https://github.com/rom1-oc/p7_api.git
+Deployment: https://dashboard.heroku.com/apps/final-app-p7
+
+- Dashboard
+Code: https://github.com/rom1-oc/p7_dashboard.git
+Deployment: https://dashboard.heroku.com/apps/final-dashboard-app-p7
+
+
