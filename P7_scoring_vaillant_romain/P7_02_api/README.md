@@ -1,4 +1,3 @@
-# P7
-# Flask API Code
+# P7 
+# API Code Folder
 
-# https://github.com/rom1-oc/p7_api.git
