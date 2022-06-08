@@ -1,3 +1,5 @@
+# P7 - Implémentez un modèle de scoring
+
 # Compétences évaluées
 - Utiliser un logiciel de version de code pour assurer l’intégration du modèle
 - Déployer un modèle via une API dans le Web
