@@ -6,12 +6,11 @@
 - Présenter son travail de modélisation à l'oral
 
 # Contexte
-Vous êtes Data Scientist au sein d'une société financière, nommée "Prêt à dépenser",  qui propose des crédits à la consommation pour des personnes ayant peu ou pas du tout d'historique de prêt.
-Logo entreprise 
+Vous êtes Data Scientist au sein d'une société financière, nommée "Prêt à dépenser",  qui propose des crédits à la consommation pour des personnes ayant peu ou pas du tout d'historique de prêt. 
  
-L’entreprise souhaite mettre en œuvre un outil de “scoring crédit” pour calculer la probabilité qu’un client rembourse son crédit, puis classifie la demande en crédit accordé ou refusé. Elle souhaite donc développer un algorithme de classification en s’appuyant sur des sources de données variées (données comportementales, données provenant d'autres institutions financières, etc.).
-De plus, les chargés de relation client ont fait remonter le fait que les clients sont de plus en plus demandeurs de transparence vis-à-vis des décisions d’octroi de crédit. Cette demande de transparence des clients va tout à fait dans le sens des valeurs que l’entreprise veut incarner.
-Prêt à dépenser décide donc de développer un dashboard interactif pour que les chargés de relation client puissent à la fois expliquer de façon la plus transparente possible les décisions d’octroi de crédit, mais également permettre à leurs clients de disposer de leurs informations personnelles et de les explorer facilement. 
+L’entreprise souhaite mettre en œuvre un outil de “scoring crédit” pour calculer la probabilité qu’un client rembourse son crédit, puis classifie la demande en crédit accordé ou refusé. Elle souhaite donc développer un algorithme de classification en s’appuyant sur des sources de données variées (données comportementales, données provenant d'autres institutions financières, etc.). 
+De plus, les chargés de relation client ont fait remonter le fait que les clients sont de plus en plus demandeurs de transparence vis-à-vis des décisions d’octroi de crédit. Cette demande de transparence des clients va tout à fait dans le sens des valeurs que l’entreprise veut incarner. 
+Prêt à dépenser décide donc de développer un dashboard interactif pour que les chargés de relation client puissent à la fois expliquer de façon la plus transparente possible les décisions d’octroi de crédit, mais également permettre à leurs clients de disposer de leurs informations personnelles et de les explorer facilement.
 
 # Objectifs 
 - Construire un modèle de scoring qui donnera une prédiction sur la probabilité de faillite d'un client de façon automatique.
@@ -26,14 +25,14 @@ Michaël vous a fourni des spécifications pour le dashboard interactif. Celui-c
 # Livrables 
 - Le dashboard interactif répondant aux spécifications ci-dessus et l’API de prédiction du score, déployées chacunes sur le cloud.
 - Un dossier sur un outil de versioning de code contenant :
-- - Le code de la modélisation (du prétraitement à la prédiction)
-- - Le code générant le dashboard
-- - Le code permettant de déployer le modèle sous forme d'API
+ - Le code de la modélisation (du prétraitement à la prédiction)
+ - Le code générant le dashboard
+ - Le code permettant de déployer le modèle sous forme d'API
 - Une note méthodologique décrivant :
-- - La méthodologie d'entraînement du modèle (2 pages maximum)
-- - La fonction coût métier, l'algorithme d'optimisation et la métrique d'évaluation (1 page maximum)
-- - L’interprétabilité globale et locale du modèle (1 page maximum)
-- - Les limites et les améliorations possibles (1 page maximum)
+ - La méthodologie d'entraînement du modèle (2 pages maximum)
+ - La fonction coût métier, l'algorithme d'optimisation et la métrique d'évaluation (1 page maximum)
+ - L’interprétabilité globale et locale du modèle (1 page maximum)
+ - Les limites et les améliorations possibles (1 page maximum)
 - Un support de présentation pour la soutenance, détaillant le travail réalisé.
 
 
