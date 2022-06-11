@@ -27,7 +27,7 @@ Michaël vous a fourni des spécifications pour le dashboard interactif. Celui-c
 # Livrables 
 - Le dashboard interactif répondant aux spécifications ci-dessus et l’API de prédiction du score, déployées chacunes sur le cloud.
 - Un dossier sur un outil de versioning de code contenant :
- - Le code de la modélisation (du prétraitement à la prédiction)
+ -- Le code de la modélisation (du prétraitement à la prédiction)
  - Le code générant le dashboard
  - Le code permettant de déployer le modèle sous forme d'API
 - Une note méthodologique décrivant :
